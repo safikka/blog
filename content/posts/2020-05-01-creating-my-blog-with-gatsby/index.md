@@ -1,6 +1,6 @@
 ---
 title: Creating my blog with Gatsby and Github Pages
-author: Edwin Torres
+author: Mahdy Syafiqa J
 date: 2020-05-01
 hero: ./images/hero.jpg
 excerpt: How to create your own blog using Gatsby and Github Pages.
